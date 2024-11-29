@@ -12661,6 +12661,15 @@ msgstr "Cambiare canale e registrare"
 msgid "zapped"
 msgstr "Cambiato!"
 
+msgid "Feels like"
+msgstr "Percepita"
+
+msgid "Humidity"
+msgstr "Umidità"
+
+msgid "Wind"
+msgstr "Vento"
+
 msgid "®"
 msgstr "®"
 
