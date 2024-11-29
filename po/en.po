@@ -12706,6 +12706,15 @@ msgstr "zap and record"
 msgid "zapped"
 msgstr "zapped"
 
+msgid "Feels like"
+msgstr "Feels like"
+
+msgid "Humidity"
+msgstr "Humidity"
+
+msgid "Wind"
+msgstr "Wind"
+
 msgid "®"
 msgstr ""
 
